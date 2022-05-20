@@ -1,0 +1,22 @@
+.button1 {
+    display: inline-block;
+    padding: 12px 45px;
+    background-color: #f7444e;
+    border: 1px solid #f7444e;
+    color: #ffffff;
+    border-radius: 0;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    margin-top: 10px;
+    font-weight: 700;
+}
+
+.button1:hover{
+    color: #f7444e;
+    background-color: #ffffff;
+    border: 1px solid #f7444e;
+}
+
+a {
+    text-decoration: none;
+}
